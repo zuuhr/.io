@@ -45,7 +45,8 @@ Modeled And Texturized By [Dani](https://twitter.com/brenlli_dev)
   
 ### ~ VFX Examples
 ![vfx_fire_02](https://user-images.githubusercontent.com/43469859/156901503-9280c047-8218-4b73-b252-3a686d721397.gif)
-[TODO: upload]
+
+![vfx_electric_03](https://user-images.githubusercontent.com/43469859/156901656-6bc38737-405f-4a5a-a342-8587f94544df.gif)
 
   
 ### ~ Minimap Screen While Eyes Are Closed For [Undermare](https://zuuhr.itch.io/undermare)
