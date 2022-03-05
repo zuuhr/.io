@@ -55,5 +55,6 @@ Modeled And Texturized By [Dani](https://twitter.com/brenlli_dev)
 
   
   
-
+<div align="center">
 Thank you ^^ 
+</div>
