@@ -28,7 +28,7 @@ Modeled And Texturized By [Dani](https://twitter.com/brenlli_dev)
 ![portfolio_dithering_gradientmap](https://user-images.githubusercontent.com/43469859/156894339-59887557-e997-48aa-bb3b-30d2ab013a5b.png)
 
 
-### Simple Pixel Shader
+### ~ Simple Pixel Shader
 ![portfolio_pixel](https://user-images.githubusercontent.com/43469859/156895726-67b5c135-7828-4809-a92f-3af68e590275.gif)
 Modeled And Texturized By [Dani](https://twitter.com/brenlli_dev)
 
