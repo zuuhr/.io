@@ -1,7 +1,7 @@
 # Mariam Baradi's (Zu' uhr) Portfolio:
-3D Rendering Engineer and Artist. 
+:potted_plant:  3D Rendering Engineer and Artist. :potted_plant: 
 
-<img src="https://simpleicons.org/icons/adobephotoshop.svg" height="48" style="background-color:Tomato;">   <img src="https://simpleicons.org/icons/unity.svg" height="48">   <img src="https://simpleicons.org/icons/webgl.svg" height="48">   
+<img src="https://user-images.githubusercontent.com/43469859/156896334-c8e67994-74ab-472c-8403-243d5437c2bf.svg" height="48">   <img src="https://user-images.githubusercontent.com/43469859/156896335-4d1fb57f-25ed-4c5f-8be7-39306e091f91.svg" height="48">   <img src="https://user-images.githubusercontent.com/43469859/156896336-e5dd18a7-cd8a-4c3d-b54c-abb56bcf4702.svg" height="48">   <img src="https://user-images.githubusercontent.com/43469859/156896337-9da301bf-f6ce-4e7e-bb90-243d83c4143f.svg" height="48">   
 
 ## Concept Art Portfolio:
 [Artstation](https://www.artstation.com/zuuhr)
@@ -48,4 +48,6 @@ Modeled And Texturized By [Dani](https://twitter.com/brenlli_dev)
 ![undermare_minimap](https://user-images.githubusercontent.com/43469859/156894813-37208819-5ab9-4907-b6b4-ccaa88343696.gif)
 
 
-Thank you ^^
+
+
+:lizard: Thank you ^^ :lizard:
