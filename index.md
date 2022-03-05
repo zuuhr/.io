@@ -1,7 +1,7 @@
 # Mariam Baradi's (Zu' uhr) Portfolio:
 3D Rendering Engineer and Artist. 
 
-<img src="https://simpleicons.org/icons/adobephotoshop.svg" height="48" style="color:Tomato;">   <img src="https://simpleicons.org/icons/unity.svg" height="48">   <img src="https://simpleicons.org/icons/webgl.svg" height="48">   
+<img src="https://simpleicons.org/icons/adobephotoshop.svg" height="48" style="background-color:Tomato;">   <img src="https://simpleicons.org/icons/unity.svg" height="48">   <img src="https://simpleicons.org/icons/webgl.svg" height="48">   
 
 ## Concept Art Portfolio:
 [Artstation](https://www.artstation.com/zuuhr)
