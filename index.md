@@ -20,7 +20,7 @@
   
 ### ~ Toon Lighting
 ![portfolio_toon](https://user-images.githubusercontent.com/43469859/156895344-2219d9ca-07b3-40e6-85ec-e116fdf0f7ba.gif)
-Modeled And Texturized By [Dani](https://twitter.com/brenlli_dev)
+Modeling And Texturing By [Dani](https://twitter.com/brenlli_dev)
 
   
 ### ~ Decal Shader
@@ -44,7 +44,7 @@ Modeled And Texturized By [Dani](https://twitter.com/brenlli_dev)
 ![portfolio_flowmap](https://user-images.githubusercontent.com/43469859/156895845-ea57ee4f-4f6c-431e-a76b-ae3e34479254.gif)
 
   
-### ~ VFX Examples
+### ~ Unity VFX Examples
 ![vfx_fire_04](https://user-images.githubusercontent.com/43469859/156903573-e85c4b8c-c6d4-40d4-b26f-7f47a9824818.gif)
 
 ![vfx_electric_07](https://user-images.githubusercontent.com/43469859/156902577-de408df2-b6c8-4c90-b76d-e7d798140b85.gif)
