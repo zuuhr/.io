@@ -33,7 +33,7 @@ Modeling And Texturing By [Dani](https://twitter.com/brenlli_dev)
   
 ### ~ Simple Pixel Shader
 ![portfolio_pixel](https://user-images.githubusercontent.com/43469859/156895726-67b5c135-7828-4809-a92f-3af68e590275.gif)
-Modeled And Texturized By [Dani](https://twitter.com/brenlli_dev)
+Modeling And Texturing By [Dani](https://twitter.com/brenlli_dev)
 
   
 ### ~ Blur Shader
