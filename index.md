@@ -1,6 +1,8 @@
 # Mariam Baradi's (Zu' uhr) Portfolio:
 <div align="center">
-3D Rendering Engineer and Artist.   
+3D Rendering Engineer and Artist. 
+  <br>
+  <br>
 </div>
 
 <div align="center"> 
