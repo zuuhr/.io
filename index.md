@@ -1,8 +1,7 @@
 # Mariam Baradi's (Zu' uhr) Portfolio:
 <div align="center">
-3D Rendering Engineer and Artist. 
+3D Rendering Engineer and Artist.   
 </div>
-## 
 
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/43469859/156896334-c8e67994-74ab-472c-8403-243d5437c2bf.svg" height="48">   <img src="https://user-images.githubusercontent.com/43469859/156896335-4d1fb57f-25ed-4c5f-8be7-39306e091f91.svg" height="48">   <img src="https://user-images.githubusercontent.com/43469859/156896336-e5dd18a7-cd8a-4c3d-b54c-abb56bcf4702.svg" height="48">   <img src="https://user-images.githubusercontent.com/43469859/156901283-357e99d2-775c-47d6-b827-0c4dcb6ac7dd.svg" height="48">   <img src="https://user-images.githubusercontent.com/43469859/156901285-ecbb6271-3222-484a-86c8-8824220dc29b.svg" height="48"> <img src="https://user-images.githubusercontent.com/43469859/156901284-95f63138-3081-49cf-a419-83a274ddff78.svg" height="48"> 
