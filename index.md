@@ -2,6 +2,10 @@
 <div align="center">
 3D Rendering Engineer and Artist. 
   <br>
+Currently working as a VFX and Technical Artist Intern at A Crone's Yarn
+  
+  
+
   <br>
 </div>
 
