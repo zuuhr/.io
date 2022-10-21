@@ -14,13 +14,16 @@
 - VFX and Technical Artist Intern at A Crone's Yarn
   <br>
   
+###
+
 ### Currently working as:
   <br>
 - Technical Artist at Vagalume
   <br>
 - Art Director and Technical Artist at [________] (Personal Project)
   <br>
-
+  
+### 
 
 ## Concept Art Portfolio:
 [Artstation](https://www.artstation.com/zuuhr)
