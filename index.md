@@ -22,11 +22,8 @@
 - Technical Artist at Vagalume
   <br>
 - Art Director and Technical Artist at [________] (Personal Project)
-  
-  
-
   <br>
-
+</div>
 
 ## Concept Art Portfolio:
 [Artstation](https://www.artstation.com/zuuhr)
