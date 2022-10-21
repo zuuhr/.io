@@ -2,7 +2,15 @@
 <div align="center">
 3D Rendering Engineer and Artist. 
   <br>
-Currently working as a VFX and Technical Artist Intern at A Crone's Yarn
+Previous work:
+  <br>
+VFX and Technical Artist Intern at A Crone's Yarn
+  <br>
+Currently working as:
+  <br>
+Technical Artist at Vagalume
+  <br>
+Art Director and Technical Artist at [________] (Personal Project)
   
   
 
