@@ -10,13 +10,13 @@
 
 
 ### Previous work:
-  <br>
+
 - VFX and Technical Artist Intern at A Crone's Yarn
   <br>
 
 
 ### Currently working as:
-  <br>
+  
 - Technical Artist at Vagalume
   <br>
 - Art Director and Technical Artist at [________] (Personal Project)
@@ -31,45 +31,55 @@
 
 ## Technical Art Portfolio:
 
+### ~ Depth Simulation and DoF Renderer Feature for the 2D game A Crone's Yarn
+![zuuhr_portfolio_a_crone's_yarn_depth_of_field](https://user-images.githubusercontent.com/43469859/198065075-74442f45-4e5f-4911-870a-16ff74923d4b.gif)
+
+Consists of code-generated sprites with depth information based on Y axis positioning (since Z axis was already being used and not an option)
+
+![renderer_feature](https://user-images.githubusercontent.com/43469859/198065855-69ee9342-8280-4438-929d-8757825e27ae.png)
+
+Implemented DoF camera shaders as a multi-pass renderer feature
+References: [Catlike Coding DoF](https://catlikecoding.com/unity/tutorials/advanced-rendering/depth-of-field/) & [Official Unity DoF GitHub](https://github.com/Unity-Technologies/Graphics/blob/master/Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/BokehDepthOfField.shader)
+
 ### ~ Outline By Edge Detection Shader
-![portfolio_outline1](https://user-images.githubusercontent.com/43469859/156893586-81d2244e-4633-4823-8df4-e6a42aa8305b.gif)
+![zuuhr_portfolio_outline](https://user-images.githubusercontent.com/43469859/156893586-81d2244e-4633-4823-8df4-e6a42aa8305b.gif)
 
   
 ### ~ Toon Lighting
-![portfolio_toon](https://user-images.githubusercontent.com/43469859/156895344-2219d9ca-07b3-40e6-85ec-e116fdf0f7ba.gif)
+![zuuhr_portfolio_toon](https://user-images.githubusercontent.com/43469859/156895344-2219d9ca-07b3-40e6-85ec-e116fdf0f7ba.gif)
 Modeling And Texturing By [Dani](https://twitter.com/brenlli_dev)
 
   
 ### ~ Decal Shader
-![portfolio_decal](https://user-images.githubusercontent.com/43469859/156894142-7ec7f324-ac45-4bb6-9bb1-9f0b232377ee.gif)
+![zuuhr_portfolio_decal](https://user-images.githubusercontent.com/43469859/156894142-7ec7f324-ac45-4bb6-9bb1-9f0b232377ee.gif)
 
   
 ### ~ Dithering Using Bayer Matrix + Gradient Map Shader
-![portfolio_dithering_gradientmap](https://user-images.githubusercontent.com/43469859/156894339-59887557-e997-48aa-bb3b-30d2ab013a5b.png)
+![zuuhr_portfolio_dithering_gradientmap](https://user-images.githubusercontent.com/43469859/156894339-59887557-e997-48aa-bb3b-30d2ab013a5b.png)
 
   
 ### ~ Simple Pixel Shader
-![portfolio_pixel](https://user-images.githubusercontent.com/43469859/156895726-67b5c135-7828-4809-a92f-3af68e590275.gif)
+![zuuhr_portfolio_pixel](https://user-images.githubusercontent.com/43469859/156895726-67b5c135-7828-4809-a92f-3af68e590275.gif)
 Modeling And Texturing By [Dani](https://twitter.com/brenlli_dev)
 
   
 ### ~ Blur Shader
-![portfolio_blur](https://user-images.githubusercontent.com/43469859/156894727-e16aaf48-8ca7-4b51-872d-e35a830d0563.png)
+![zuuhr_portfolio_blur](https://user-images.githubusercontent.com/43469859/156894727-e16aaf48-8ca7-4b51-872d-e35a830d0563.png)
 
   
 ### ~ FlowMap With Hand-Painted Texture Shader
-![portfolio_flowmap](https://user-images.githubusercontent.com/43469859/156895845-ea57ee4f-4f6c-431e-a76b-ae3e34479254.gif)
+![zuuhr_portfolio_flowmap](https://user-images.githubusercontent.com/43469859/156895845-ea57ee4f-4f6c-431e-a76b-ae3e34479254.gif)
 
   
 ### ~ Unity VFX Examples
-![vfx_fire_04](https://user-images.githubusercontent.com/43469859/156903573-e85c4b8c-c6d4-40d4-b26f-7f47a9824818.gif)
+![zuuhr_portfolio_fire](https://user-images.githubusercontent.com/43469859/156903573-e85c4b8c-c6d4-40d4-b26f-7f47a9824818.gif)
 
-![vfx_electric_07](https://user-images.githubusercontent.com/43469859/156902577-de408df2-b6c8-4c90-b76d-e7d798140b85.gif)
+![zuuhr_portfolio_electric](https://user-images.githubusercontent.com/43469859/156902577-de408df2-b6c8-4c90-b76d-e7d798140b85.gif)
 
 
   
 ### ~ Minimap Screen While Eyes Are Closed For [Undermare](https://zuuhr.itch.io/undermare)
-![undermare_minimap](https://user-images.githubusercontent.com/43469859/156894813-37208819-5ab9-4907-b6b4-ccaa88343696.gif)
+![zuuhr_portfolio_undermare_minimap](https://user-images.githubusercontent.com/43469859/156894813-37208819-5ab9-4907-b6b4-ccaa88343696.gif)
 
   
   
