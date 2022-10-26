@@ -19,7 +19,7 @@
   
 - Technical Artist at Vagalume
   <br>
-- Art Director and Technical Artist at [________] (Personal Project)
+- Art Director and Technical Artist at [________] ( Personal Project with [Dani](https://twitter.com/brenlli_dev) and [Álvaro](https://twitter.com/Alvaro_Roger_) )
   <br>
 
 
