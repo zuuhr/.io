@@ -45,6 +45,9 @@ References: [Catlike Coding DoF](https://catlikecoding.com/unity/tutorials/advan
 ![zuuhr_portfolio_outline](https://user-images.githubusercontent.com/43469859/156893586-81d2244e-4633-4823-8df4-e6a42aa8305b.gif)
 
   
+### ~ Water Waves Compute Shader
+![zuuhr_portfolio_water](https://user-images.githubusercontent.com/43469859/198068644-fc32551e-042e-4bdf-913b-79ea0ca31072.gif)
+  
 ### ~ Toon Lighting
 ![zuuhr_portfolio_toon](https://user-images.githubusercontent.com/43469859/156895344-2219d9ca-07b3-40e6-85ec-e116fdf0f7ba.gif)
 Modeling And Texturing By [Dani](https://twitter.com/brenlli_dev)
