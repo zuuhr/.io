@@ -31,6 +31,8 @@
 
 ## Technical Art Portfolio:
 
+Using ShaderLab and HLSL: 
+
 ### ~ Depth Simulation and DoF Renderer Feature for the 2D game A Crone's Yarn
 ![zuuhr_portfolio_a_crone's_yarn_depth_of_field](https://user-images.githubusercontent.com/43469859/198065075-74442f45-4e5f-4911-870a-16ff74923d4b.gif)
 
@@ -75,6 +77,8 @@ Modeling And Texturing By [Dani](https://twitter.com/brenlli_dev)
 
   
 ### ~ Unity VFX Examples
+![zuuhr_portfolio_portal](https://user-images.githubusercontent.com/43469859/201335828-28486fce-f141-4c28-a8f0-ee6e535decbd.gif)
+
 ![zuuhr_portfolio_fire](https://user-images.githubusercontent.com/43469859/156903573-e85c4b8c-c6d4-40d4-b26f-7f47a9824818.gif)
 
 ![zuuhr_portfolio_electric](https://user-images.githubusercontent.com/43469859/156902577-de408df2-b6c8-4c90-b76d-e7d798140b85.gif)
@@ -89,3 +93,4 @@ Modeling And Texturing By [Dani](https://twitter.com/brenlli_dev)
 <div align="center">
 Thank you ^^ 
 </div>
+
